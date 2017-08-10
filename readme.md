@@ -1,6 +1,7 @@
 # TypoJS
 
 Humans make a lot of typos. This software tries to behave as human as possible in this aspect. 
+Project forked to remove shebang in order to use with webpack.
 
 ## Typo Generators
 
