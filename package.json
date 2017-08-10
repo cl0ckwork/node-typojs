@@ -1,5 +1,5 @@
 {
-	"name": "typojs",
+	"name": "typojs-wp",
 	"description": "Generates typical typing errors for any given string",
 	"version": "0.1.1",
 	"repository": {
