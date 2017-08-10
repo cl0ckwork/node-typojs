@@ -1,5 +1,3 @@
-#!/usr/bin/bin/env node
-
 String.prototype.replaceAt=function(pos, ch) {
 	return [this.substr(0, pos), ch, this.substr(pos+1)].join('');
 };
